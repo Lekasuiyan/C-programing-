@@ -17,7 +17,7 @@ int main (){
  scanf("%d",&age);
  
  printf("Enter your income:");
-  scanf("%f",income);
+  scanf("%f",&income);
   
   //imput conditions display on screen 
   if (age >=21 && income >=21000) {
