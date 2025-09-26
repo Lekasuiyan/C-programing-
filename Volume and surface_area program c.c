@@ -1,6 +1,6 @@
 /*
-Name:
-Reg no:
+Name:Paul Sinyati Lekasuiyan
+Reg no:PA106/G/28929/25
 Description:Program to compute volume and surface_area 
 volume =pi*radius *radius *height 
 surface area =(2pi*radius *radius)+(2pi*radius*height)
