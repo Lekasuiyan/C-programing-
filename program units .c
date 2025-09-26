@@ -1,7 +1,7 @@
 /*
-Name:
-reg no:
-Description:program to compute units
+Name:Paul Sinyati Lekasuiyan
+reg no:PA106/G/28929/25
+Description:program to compute Software engineering units
 */
 
 #include <stdio.h>
