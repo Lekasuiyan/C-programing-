@@ -1,7 +1,7 @@
 /*
 Name:Paul Sinyati Lekasuiyan
 reg no:PA106/G/28929/25
-Description:program to compute height, id_number, account_balance, email and Github username 
+Description: program to compute height, id_number, account_balance, email and Github username 
 */
 
 #include <stdio.h>
