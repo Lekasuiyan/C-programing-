@@ -1,6 +1,6 @@
 /*
-Name:
-Reg no:
+Name:Paul Sinyati Lekasuiyan
+Reg no:PA106/G/28929/25
 Description:Program to compute loan eligibility 
 */
 
